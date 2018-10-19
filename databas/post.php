@@ -7,6 +7,7 @@ include med databas connection
 include 'conn.php';
 
 /*
+//
 Alternativ 2
 Databas connection direkt i koden
 */
